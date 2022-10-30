@@ -8,4 +8,4 @@
 
 * C语言版本的crifanLib
   * https://github.com/crifan/crifanLib/blob/master/c/crifanLib.c
-    * https://github.com/crifan/crifanLib/blob/master/c/crifanLib.h
+    * https://github.com/crifan/crifanLib/blob/master/c/CrifanLib.h
