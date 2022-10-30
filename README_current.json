@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.6",
+  "lastUpdate": "20221030",
+  "gitRepoName": "c_lang_dev_summary",
+  "bookName": "C语言开发心得",
+  "bookDescription": "总结C语言开发期间的各种心得，尤其是常用代码段。包括各种方面：字符串、内存、文件的open、stat、realpath等，bool布尔、int整数、内联汇编、可变参数、修饰符、const常量、restrict，以及其他的syscall、enum枚举、错误码errno、正则等。"
+}
